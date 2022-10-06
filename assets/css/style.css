@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #16161a;
+    background-color: #0c0c0e;
     color: #fff;
     font-family: "Poppins", sans-serif;
 }
@@ -37,7 +37,7 @@ header nav .header_links ul li, section.main ul li {
 header nav .header_links ul li a {
     outline: none;
     text-decoration: none;
-    color: #a6a8b8;
+    color: #e60000;
     padding: 5px 12px;
     transition: 0.3s all;
     font-size: 15px;
@@ -127,7 +127,7 @@ section.main ul {
 }
 
 section.main ul li a {
-    color: #a6a8b8;
+    color: #368cdd;
     display: flex;
     text-decoration: none;
     margin: 20px 5px;
